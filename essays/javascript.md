@@ -11,6 +11,8 @@ summary: "An Initial Reflection on JavaScript."
 ---
 ![javascriptessay](https://github.com/amiyoshikawa/amiyoshikawa.github.io/assets/143127989/0c463c1a-d87d-402d-b6f4-5e6ad8f270cb)
 
+<img src="../img/javascriptessay.jpg">
+
 ## First Impressions
 
 During the winter of 2020, nearly a year into being furloughed from my job due to the COVID-19 pandemic, I made the impulsive decision to enroll in an online, introductory coding workshop for HTML, CSS, and JavaScript. Prior to taking this workshop, I had no experience in programming, so this was all very new and exciting. The three-week course taught me the very basics of these markup and programming languages, and by the end of it, I knew I wanted to pursue a degree in Computer Science. I ended my career in the hospitality industry in June of 2021, and by Fall, I was ready to embark on an academic journey as a Computer Science major.
