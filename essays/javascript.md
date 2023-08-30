@@ -10,7 +10,7 @@ labels:
 summary: "An Initial Reflection on JavaScript."
 ---
 
-<img width="200px" class="img-fluid" src=""C:\Users\amiyo\OneDrive\Pictures\javascriptessay.jpg"">
+<img width="200px" class="img-fluid" src=""[C:\Users\amiyo\OneDrive\Pictures\javascriptessay.jpg](https://photos.google.com/photo/AF1QipMsNhHsCSfbN7_2Zp4UHWk8dZczC7hnGjrOnGu4)"">
 
 ## First Impressions
 
