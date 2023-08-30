@@ -10,7 +10,7 @@ labels:
 summary: "An Initial Reflection on JavaScript."
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/javascriptessay.jpg">
+<img width="200px" class="rounded float-start pe-4" src=""C:\Users\amiyo\OneDrive\Pictures\javascriptessay.jpg"">
 
 ## First Impressions
 
