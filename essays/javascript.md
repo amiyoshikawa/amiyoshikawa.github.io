@@ -12,7 +12,7 @@ summary: "An Initial Reflection on JavaScript."
 
 ## First Impressions
 
-During the winter of 2020, nearly a year into being furloughed from my job due to the COVID-19 pandemic, I made the impulsive decision to enroll in an online, introductory coding workshop for HTML, CSS, and JavaScript. Prior to taking this workshop, I had no experience in programming, so this was all very new and exciting. The three-week course taught me the very basics of these markup and programming languages, and by the end of it, I knew I wanted to pursue a degree in Computer Science. I ended my career in the hospitality industry, and within a matter of a few short mnonths, I was ready to embark on an academic journey as a Computer Science major.
+During the winter of 2020, nearly a year into being furloughed from my job due to the COVID-19 pandemic, I made the impulsive decision to enroll in an online, introductory coding workshop for HTML, CSS, and JavaScript. Prior to taking this workshop, I had no experience in programming, so this was all very new and exciting. The three-week course taught me the very basics of these markup and programming languages, and by the end of it, I knew I wanted to pursue a degree in Computer Science. I ended my career in the hospitality industry, and within a matter of a few short months, I was ready to embark on an academic journey as a Computer Science major.
 
 ## A Rude Awakening
 
