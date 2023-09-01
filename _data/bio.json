@@ -23,10 +23,6 @@
     {
       "name": "Languages and Frameworks",
       "keywords": [ "C", "C++", "Java" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Unix", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -87,7 +83,7 @@
     },
 {
       "company": "Aulani, A Disney Resort and Spa",
-      "position": "PFront Desk Room Assigner",
+      "position": "Front Desk Room Assigner",
       "website": "https://www.disneyaulani.com/",
       "startDate": "2014-10-11",
       "endDate": "2019-02-13",
