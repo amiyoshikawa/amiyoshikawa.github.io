@@ -9,7 +9,6 @@ labels:
   - JavaScript
 summary: "An Initial Reflection on JavaScript."
 ---
-![javascriptessay](https://github.com/amiyoshikawa/amiyoshikawa.github.io/assets/143127989/0c463c1a-d87d-402d-b6f4-5e6ad8f270cb)
 
 ## First Impressions
 
