@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Real-World Experiences that Lead Me into the World of Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2023-08-30
+date: 2023-08-31
 published: true
 labels:
   - Software Engineering
