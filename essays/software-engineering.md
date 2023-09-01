@@ -6,7 +6,8 @@ title: "Real-World Experiences that Lead Me into the World of Software Engineeri
 date: 2023-08-30
 published: true
 labels:
-  - JavaScript
+  - Software Engineering
+  - Background
 ---
 
 ## It’s Not Always a Linear Journey
