@@ -21,8 +21,12 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "keywords": [ "C", "C++", "Java" ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [ "English", "Japanese" ]
     }
   ],
   "education": [
