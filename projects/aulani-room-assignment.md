@@ -9,7 +9,7 @@ labels:
   - Hospitality
   - Inventory Management
   - Room Assignment
-summary: "A six-month Room Assignment project that required floors to be blocked out of available inventory for the Housekeeping and Engineering departments at Aulani."
+summary: "A six-month Room Assignment project that required floors to be blocked out of available inventory for the Housekeeping and Engineering departments at Aulani, A Disney Resport & Spa."
 ---
 
 <div class="text-center p-4">
