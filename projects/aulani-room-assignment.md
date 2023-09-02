@@ -15,7 +15,6 @@ summary: "A six-month Room Assignment project that required floors to be blocked
 <div class="text-center p-4">
   <img width="350px" src="../img/aulani-room-assignment/aulani-annual-group-pic-2016.jpg" class="img-thumbnail" >
   <img width="350px" src="../img/aulani-room-assignment/aulani-annual-group-pic-2017.jpg" class="img-thumbnail" >
-  <img width="350px" src="../img/aulani-room-assignment/IMG_5847.JPG" class="img-thumbnail" >
 </div>
 
 As a PM Room Assigner at Aulani, my primary responsibility was to review 100-500 pages of reports every night for the following day's arrivals and ensure all guests' requests have been met. Along with reviewing the reports, a typical day would look like this: since our occupany was almost always at a 100%, our phone lines would be ringing nonstop, we would have to listen for Bell, Valet, and Arrival staff to call out arrivals over the radio and we'd have to respond with room statuses, Front Desk Agents would be coming into our office to ask for assistance, and as the first point of contact for all of our guests, we were responsible for providing recovery solutions concerning all lines of businesses. It was a high-stress job which required a lot of patience and poise, but I thrived in that chaotic environment and I loved every moment of it.
