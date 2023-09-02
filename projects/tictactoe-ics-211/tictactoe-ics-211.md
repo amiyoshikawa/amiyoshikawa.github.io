@@ -11,6 +11,10 @@ labels:
 summary: "A tic-tac-toe game made for ICS 211."
 ---
 
+<div class="text-center p-4">
+  <img width="350px" src="../img/tictactoe-ics-211/tictactoe.jpg" class="img-thumbnail" >
+</div>
+
 For ICS 211, we were given the task to make a Graphical User Interface (GUI) that allowed the user to play Tic-Tac-Toe against the computer. As this was my very first game, I was incredibly excited for the assignment. 
 
 There are several issues with my code. To name a few, I failed to find a way to get the computer's turn to generate on its own. As a result, the game does not function the way that it's intended to. The idea is for the user to select a tile. Then, the computer should automatically generate its own mark on a random tile that has yet to be played. The code, as it stands, requires that the user select tiles for both themselves and for the comptuer. Now, where's the fun in that? 
