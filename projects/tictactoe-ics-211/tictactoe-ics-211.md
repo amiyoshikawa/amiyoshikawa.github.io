@@ -8,7 +8,7 @@ published: true
 labels:
   - Java
   - ICS 211
-summary: "A tic-tac-toe game made for ICS 21."
+summary: "A tic-tac-toe game made for ICS 211."
 ---
 
 For ICS 211, we were given the task to make a Graphical User Interface (GUI) that allowed the user to play Tic-Tac-Toe against the computer. As this was my very first game, I was incredibly excited for the assignment. 
