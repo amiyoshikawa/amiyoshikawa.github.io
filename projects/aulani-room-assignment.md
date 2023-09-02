@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/aulani-logo1.jpg
+image: img/aulani-room-assignment/aulani-logo1.jpg
 title: "Aulani's Room Block and Inventory Project"
 date: 2018
 published: true
