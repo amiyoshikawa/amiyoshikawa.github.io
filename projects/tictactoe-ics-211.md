@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/shecodes/shecodes-logo.png
-title: "SheCodes Basics"
+image: img/tictactoe-ics-211/tictactoe-ics-211.jpg
+title: "Tic-Tac-Toe"
 date: 2022
 published: true
 labels:
