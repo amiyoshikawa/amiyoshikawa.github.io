@@ -11,7 +11,5 @@ labels:
 summary: "A tic-tac-toe game made for ICS 21."
 ---
 
-<div class="text-center p-4">
-  <img width="350px" src="../img/shecodes/shecodes-certificate.png" class="img-thumbnail" >
-</div>
+
 
