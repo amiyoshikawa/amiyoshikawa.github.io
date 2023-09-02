@@ -10,7 +10,7 @@ labels:
   - CSS
   - JavaScript
   - VS Code
-summary: "My experience with an introductory HTML/CSS & JavaScipt workshop on SheCodes."
+summary: "My experience with an introductory HTML/CSS & JavaScript workshop on SheCodes."
 ---
 
 <div class="text-center p-4">
