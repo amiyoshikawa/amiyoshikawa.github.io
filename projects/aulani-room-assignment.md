@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Room Blocks for Housekeeping/Engineering Project"
+title: "Aulani's Room Block and Iventory Project"
 date: 2018
 published: true
 labels:
