@@ -12,7 +12,7 @@ summary: "A tic-tac-toe game made for ICS 211."
 ---
 
 <div class="text-center p-4">
-  <img width="350px" src="../img/tictactoe-ics-211/tictactoe.jpg" class="img-thumbnail" >
+  <img width="350px" src="/img/tictactoe-ics-211/tictactoe.jpg" class="img-thumbnail" >
 </div>
 
 For ICS 211, we were given the task to make a Graphical User Interface (GUI) that allowed the user to play Tic-Tac-Toe against the computer. As this was my very first game, I was incredibly excited for the assignment. 
