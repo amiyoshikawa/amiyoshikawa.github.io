@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="To Ask or Not to Ask: Changing the Way We Ask Questions | Ami Yoshikawa | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/amiyoshikawa.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Ami Yoshikawa | Professional Portfolio">
+    <meta property="og:url" content="https://amiyoshikawa.github.io/essays/reflect-on-smart-questions.html">
+    <meta property="og:title" content="To Ask or Not to Ask: Changing the Way We Ask Questions | Ami Yoshikawa | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/amiyoshikawa.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>To Ask or Not to Ask: Changing the Way We Ask Questions | Ami Yoshikawa | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Ami Yoshikawa</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">To Ask or Not to Ask: Changing the Way We Ask Questions</h1>
+  <span class="date">07 Sep 2023</span>
+  <hr>
+  <h2 id="its-okay-to-ask-but-lets-be-smart-about-it">It’s Okay to Ask, but Let’s Be Smart About It!</h2>
+
+<p>For most of my academic and professional life, I’ve been a strong believer in thinking that “there’s no such thing as a stupid question.” Whenever I was tasked to train others at past employers, I encouraged my trainees to ask as many questions as possible, even if they felt like it was a “dumb” question. I always believed that this was a good way to foster a welcoming environment for those who were new, and by being approachable, it would encourage people to pursue their interests. Reading Eric Raymond’s <a href="http://www.catb.org/esr/faqs/smart-questions.html#writewell/">essay</a>, however, provided a different outlook. I often hear horror stories of “newbies” being met with arrogant, gatekeepers in the Computer Science community, but what resonated most was when Raymond mentioned in his essay that “…while it isn’t necessary to already be technically competent, it is necessary to demonstrate the kind of attitude that leads to competence.” This helped shift my mindset on how I should approach asking “smart” questions in hopes of yielding helpful answers.</p>
+
+<h2 id="so-whats-a-good-question">So, What’s a Good Question?</h2>
+
+<p>In the following example, a question titled <a href="https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it">What does “use strict” do in JavaScript, and what is the reasoning behind it?</a> shows how to ask “good” questions:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Recently, I ran some of my JavaScript code through Crockford's JSLint, and it gave the following error:
+
+Problem at line 1 character 1: Missing "use strict" statement.
+
+Doing some searching, I realized that some people add "use strict"; into their JavaScript code. Once I added the statement, the error stopped appearing. Unfortunately, Google did not reveal much of the history behind this string statement. Certainly it must have something to do with how the JavaScript is interpreted by the browser, but I have no idea what the effect would be.
+
+So what is "use strict"; all about, what does it imply, and is it still relevant?
+
+Do any of the current browsers respond to the "use strict"; string or is it for future use?
+</code></pre></div></div>
+<p>This isn’t a “perfect” question, by any means, but the question is clear, and the user stated that they invested some time to figure this out on their own. They also stated that Google did not provide the answer that they were looking for. The question led to several in-depth discussions which provided sufficient answers.</p>
+
+<h2 id="decoding-bad-questions">Decoding Bad Questions</h2>
+
+<p>In this example, a question titled <a href="https://stackoverflow.com/questions/72671175/how-js-sorting-the-numbers">How JS sorting the numbers?</a> demonstrates a few issues that constiute a “bad” question in Raymond’s essay:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>I'm learning Javascript and I faced a problem with sorting numbers I don't understand how work sorting function and I find an other way to sort the numbers but it was with list not with arrays I need explanations.
+
+const points = [40, 100, 1, 5, 25, 10];
+document.getElementById("demo1").innerHTML = points;
+
+points.sort(function(a, b) {
+  return a - b
+});
+document.getElementById("demo2").innerHTML = points;
+
+document.getElementById("demo3").innerHTML = points.sort();
+unsorted:
+&lt;div id="demo1"&gt;&lt;/div&gt;
+sorted:
+&lt;div id="demo2"&gt;&lt;/div&gt;
+sorted alphabetically:
+&lt;div id="demo3"&gt;&lt;/div&gt;
+</code></pre></div></div>
+<p>The header, for one, is not very clear. The user mentioned that they do not understand something, but they didn’t go into depth as to what they didn’t understand about it.</p>
+
+<p>The question is met with some confusion:</p>
+
+<p><img class="img-fluid" src="/img/reflect-on-smart-questions/stack-overflow-bad-question.jpg" /></p>
+
+<p>Raymond mentioned in his essay that if the user’s native language is not English, it should be specified. Otherwise, it’s hard to determine whether the lack of clarity is due to language barriers or poor grammar. In this instance, the fact that the user’s question was not stated clearly led to more questions from other users. Also, there’s a tone of entitlement when the user states that they “need explanations.” As Raymond mentioned, courtesy should not be overlooked.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Learning to ask good questions is a skill. Asking questions may be intimidating at first, and there’s no denying that the questions may be met with sarcasm or critique. When we are met with unfavorable responses, we can do one of two things: we could allow it to discourage us from asking further questions, or we could use that as an indication to put more effort into crafting better question. By simply searching for answers prior to asking them could lead to helpful results. When we ask others for help, we need to recognize that we are also asking for their time, and as we often hear, time is a valuable thing. We shouldn’t take advantage of that.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
